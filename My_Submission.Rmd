@@ -32,3 +32,7 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 1. makes it easy for you to keep track of collaborative and personal projects
 2. makes it easy to explore the changes that occurred to it at different time points
 3. allows you to keep track of your work and easily navigate among the many versions of the files you create, whilst also maintaining an online backup
+
+```{r}
+1 + 1
+```
